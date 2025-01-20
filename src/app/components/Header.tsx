@@ -8,7 +8,7 @@ const Header = () => {
       <div className='text-white w-full flex justify-between items-center md:px-20 py-5 px-5 sticky top-0 left-0 backdrop-blur-xl border-b'>
           <div className='hover:bg-white hover:text-black rounded-lg transition-all duration-500 px-2 py-1'>
             <Link href='/'>
-            <h1 className='text-2xl font-bold '>GENIUS</h1>
+            <h1 className='text-2xl font-bold '>EXTRACTOR</h1>
             </Link>
           </div>
           
